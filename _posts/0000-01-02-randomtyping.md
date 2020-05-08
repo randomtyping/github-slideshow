@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+time to mix drinks and change lives
 Use the left arrow to go back!
